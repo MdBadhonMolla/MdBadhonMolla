@@ -1,7 +1,8 @@
 <h1 align="center">HI<br/> MY SELF <br/>MD BADHON MOLLAH</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="center" src="https://github.com/MdBadhonMolla/MdBadhonMolla/blob/main/G.jpg" width="100%" />
+
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 Learning Programming Langauge **C++, Java-script, PHP**
 
