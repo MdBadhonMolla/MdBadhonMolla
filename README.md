@@ -1,4 +1,4 @@
-<h1 align="center"><spain color="#EADB00">HI<br/> MY SELF </spain>spain><br/>MD BADHON MOLLAH</h1>
+<h1 align="center">![#EADB00](HI<br/> MY SELF) <br/>MD BADHON MOLLAH</h1>
 
 <img align="center" src="https://github.com/MdBadhonMolla/MdBadhonMolla/blob/main/G.jpg" width="100%" />
 
