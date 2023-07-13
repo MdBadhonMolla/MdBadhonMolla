@@ -1,4 +1,6 @@
-<h1 align="center"><span style="color:red"> HI<br/> MY SELF </span><br/>MD BADHON MOLLAH</h1>
+<h1 align="center">
+  <span style="color:red"> HI<br/>MY SELF 
+  </span> <br/>MD BADHON MOLLAH</h1>
 
 <img align="center" src="https://github.com/MdBadhonMolla/MdBadhonMolla/blob/main/G.jpg" width="100%" />
 
